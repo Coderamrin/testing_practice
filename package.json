@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "jest",
-    "watch": "jest --watch *.js" 
+    "watch": "jest --watch *.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/amr1n/testing_practice/issues"
   },
-  "homepage": "https://github.com/amr1n/testing_practice#readme"
+  "homepage": "https://github.com/amr1n/testing_practice#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }
