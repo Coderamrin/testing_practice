@@ -1,0 +1,24 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amr1n/testing_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amr1n/testing_practice/issues"
+  },
+  "homepage": "https://github.com/amr1n/testing_practice#readme"
+}
